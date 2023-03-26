@@ -1,2 +1,4 @@
 # DigitalHumanities
-Digital Experience in the (digital) Humanities
+
+> Digital Media Exibition: 
+> https://lgru.github.io/DigitalHumanities/
